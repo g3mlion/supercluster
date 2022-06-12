@@ -2855,8 +2855,63 @@ pkmn.spectrier.shiny { background-position: -1400px -4872px }
 pkmn.calyrex.shiny { background-position: -1470px -4872px }
 pkmn.calyrex-ice-rider.shiny { background-position: -1540px -4872px }
 pkmn.calyrex-shadow-rider.shiny { background-position: -1610px -4872px }
-pkmn.manaphy-egg { background-position: -1680px -4872px }
-pkmn.egg { background-position: -1750px -4872px }
-pkmn.mega-evolution-sigil { background-position: -1820px -4872px }
-pkmn.unknown-gen5 { background-position: -1890px -4872px }
-pkmn.unknown { background-position: -1960px -4872px }
+
+/* HISUI */
+pkmn.growlithe-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/growlithe-hisui.png'; }
+pkmn.growlithe-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/growlithe-hisui-shiny.png'; }
+pkmn.arcanine-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/arcanine-hisui.png'; }
+pkmn.arcanine-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/arcanine-hisui-shiny.png'; }
+pkmn.voltorb-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/voltorb-hisui.png'; }
+pkmn.voltorb-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/voltorb-hisui-shiny.png'; }
+pkmn.electrode-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/electrode-hisui.png'; }
+pkmn.electrode-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/electrode-hisui-shiny.png'; }
+pkmn.typhlosion-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/typhlosion-hisui.png'; }
+pkmn.typhlosion-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/typhlosion-hisui-shiny.png'; }
+
+pkmn.qwilfish-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/quilfish-hisui.png'; }
+pkmn.qwilfish-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/quilfish-hisui-shiny.png'; }
+pkmn.overqwil { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/overqwil.png'; }
+pkmn.overqwil.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/overqwil-shiny.png'; }
+
+pkmn.sneasel-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/sneasel-hisui.png'; }
+pkmn.sneasel-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/sneasel-hisui-shiny.png'; }
+pkmn.sneasler { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/sneasler.png'; }
+pkmn.sneasler.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/sneasler-shiny.png'; }
+
+pkmn.samurott-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/samurott-hisui.png'; }
+pkmn.samurott-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/samurott-hisui-shiny.png'; }
+pkmn.lilligant-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/lilligant-hisui.png'; }
+pkmn.lilligant-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/lilligant-hisui-shiny.png'; }
+
+pkmn.zorua-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/zorua-hisui.png'; }
+pkmn.zorua-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/zorua-hisui-shiny.png'; }
+pkmn.zoroark-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/zoroark-hisui.png'; }
+pkmn.zoroark-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/zoroark-hisui-shiny.png'; }
+
+pkmn.braviary-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/braviary-hisui.png'; }
+pkmn.braviary-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/braviary-hisui-shiny.png'; }
+
+pkmn.sliggoo-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/sliggoo-hisui.png'; }
+pkmn.sliggoo-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/sliggoo-hisui-shiny.png'; }
+pkmn.goodra-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/goodra-hisui.png'; }
+pkmn.goodra-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/goodra-hisui-shiny.png'; }
+
+pkmn.avalugg-hisui { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/avalugg-hisui.png'; }
+pkmn.avalugg-hisui.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/avalugg-hisui-shiny.png'; }
+
+pkmn.wyrdeer { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/wyrdeer.png'; }
+pkmn.wyrdeer.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/wyrdeer-shiny.png'; }
+pkmn.kleavor { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/kleavor.png'; }
+pkmn.kleavor.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/kleavor-shiny.png'; }
+pkmn.ursaluna { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/ursaluna.png'; }
+pkmn.ursaluna.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/ursaluna-shiny.png'; }
+pkmn.basculegion-m { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/basculegion-m.png'; }
+pkmn.basculegion-m.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/basculegion-m-shiny.png'; }
+pkmn.basculegion-f { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/basculegion-f.png'; }
+pkmn.basculegion-f.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/basculegion-f-shiny.png'; }
+
+pkmn.enamorus { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/enamorus.png'; }
+pkmn.enamorus.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/enamorus-shiny.png'; }
+
+pkmn.enamorus-therian { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/enamorus-therian.png'; }
+pkmn.enamorus-therian.shiny { background-image:url('https://raw.githubusercontent.com/g3mlion/supercluster/main/sprites/enamorus-therian-shiny.png'; }
